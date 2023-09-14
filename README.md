@@ -43,4 +43,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 Here is project UML component diagram according to Job Seekers
 
-[https://miro.com/app/board/uXjVMlGL-pc=/?share_link_id=22777316772]
+![Ekran görüntüsü 2023-09-13 234309](https://github.com/Tarikdirek/hrms-project/assets/114292152/3aab1538-64ec-496d-b0e4-e5540f34d662)
